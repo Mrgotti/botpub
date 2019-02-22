@@ -236,7 +236,7 @@ fs.readdir("./commands/", (err, files) => {
 bot.on("ready", async () => {
 
   console.log(`${bot.user.username} est en ligne sur ${bot.guilds.size} serveur`);
-  bot.user.setActivity("tape*help", {
+  bot.user.setActivity("tape!botinfo", {
     type: "WATCHING"
   });
 
