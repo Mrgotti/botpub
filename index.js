@@ -4,6 +4,10 @@ const Discord = require("discord.js");
 const fs = require("fs");
 const bot = new Discord.Client();
 bot.commands = new Discord.Collection();
+const {
+  PREFIX,
+  GOOGLE_API_KEY
+} = require('./config');
 
 
 
