@@ -11,12 +11,12 @@ let cooldown = new Set();
 let cdseconds = 5;
 
 
-client.on("message", async message => {
+bot.on("message", async message => {
   const prefix = config.prefix;
   const args = message.content.slice(prefix.length).trim().split(/ +/g);
   const command = args.shift().toLowerCase();
 
-  if (message.author.id !== client.user.id || message.content.indexOf(client.config.prefix) !== 0) return;
+  if (message.author.id !== bot.user.id || message.content.indexOf(bot.config.prefix) !== 0) return;
 
   if (command === "spam") {
     var count = 1; // Number of messages sent (modified by sendSpamMessage)
