@@ -1,0 +1,722 @@
+[
+    {
+      "question": "Couleur de la neige ?",
+      "answers": ["blanche", "blanc"]
+    },
+    {
+      "question": "Combien de lettres dans l'alphabet ?",
+      "answers": ["26", "vingt six", "vingt-six"]
+    },
+    {
+      "question": "Qui a la plus grosse bite?",
+      "answers": ["Gotti", "mrgotti", "toi"]
+    },
+    {
+      "question": "Quel insecte produit le miel ? ?",
+      "answers": ["abeille", "l'abeille", "l abeille"]
+    },
+  
+
+
+  {
+    "question": "Quel fleuve traverse l'Égypte ?",
+    "answers": ["le nil", "nil","le Nil", "Nil"]
+  },
+  {
+    "question": "Quel est le nom de l'agence spatiale américaine ?",
+    "answers": ["NASA", "nasa", "la nasa"]
+  },
+  {
+    "question": "La Vespa créé en 1946, est un célèbre...",
+    "answers": ["Scooter", "scooter"]
+  },
+  {
+    "question": "Quel était le prénom du peintre Van Gogh. ?",
+    "answers": ["Vincent", "vincent"]
+  },
+  {
+    "question": "Quelle est la capitale de la Syrie ?",
+    "answers": ["Damas", "damas"]
+  },
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "answers": ["Paris", "paris"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Alemagne ?",
+    "answers": ["Berlin", "berlin"]
+  },
+  {
+    "question": "Qu'est-ce qui est en général balsamique sur une table? ",
+    "answers": ["Le vinaigre", "vinaigre", "Vinaigre"]
+  },
+  {
+    "question": "Dans quel sport Karpov a-t-il affronté Kasparov ?",
+    "answers": ["Aux échecs", "aux échecs", "échecs"]
+  },
+  {
+    "question": "Qui était le dieu suprême de la Grèce antique ?",
+    "answers": ["Zeus", "zeus"]
+  },
+  {
+    "question": "Quelle est la fête nationale de l'Irlande?",
+    "answers": ["La Saint-Patrick", "la Saint-Patrick", "La Saint Patrick", "saint patrick"]
+  },
+  {
+    "question": "Quel grand artiste comique lança les Restos du cœur en 1985 ?",
+    "answers": ["Coluche", "coluche"]
+  },
+  {
+    "question": "Qui fut le plus grand roi de Macédoine ?",
+    "answers": ["alexandre le grand", "Alexandre le Grand", "Alexandre le grand"]
+  },
+  {
+    "question": "Pour quoi l'hypocondriaque se fait-il du souci ?",
+    "answers": ["Sa santé", "sa santé", "santé", "Santé"]
+  },
+  {
+    "question": "[Peter Pan.] Quel est le prénom de la fille aînée des Darling ",
+    "answers": ["Wendy", "wendy"]
+  },
+  {
+    "question": "En Allemagne, quelle est la capitale de la Bavière ?",
+    "answers": ["Munich", "munich"]
+  },
+
+  {
+    "question": "Qui est l'heroïne de Notre-Dame de Paris ?",
+    "answers": ["Esmeralda", "esmeralda"]
+  },
+  {
+    "question": "Que récolte un seringueiro au Brésil ?",
+    "answers": ["latex", "Le latex", "le latex"]
+  },
+  {
+    "question": "Comment appelle-t-on un bateau à trois coques ?",
+    "answers": ["Un trimaran", "un trimaran", "trimaran"]
+  },
+  {
+    "question": "Combien y a-t-il de joueurs sur le terrain dans une équipe de base-ball ?",
+    "answers": ["9", "neuf"]
+  },
+  {
+    "question": "Combien y a-t-il de joueurs sur le terrain dans une équipe de base-ball ?",
+    "answers": ["11", "onze"]
+  },
+  {
+    "question": "Quel fleuve a le plus gros débit au monde ?",
+    "answers": ["L'Amazone", "L Amazone", "amazone"]
+  },
+  {
+    "question": "Quel peuple a inventé la poudre a canon ?",
+    "answers": ["les Chinois", "Chinois", "chinoi"]
+  },
+  {
+    "question": " Quel est le pays natal de Wolfgang Amadeus Mozart ?",
+    "answers": ["L Autriche", "L'Autriche", "Autriche"]
+  },
+  {
+    "question": "Lequel des cinq sens manque au serpent ?",
+    "answers": ["L'ouie", "L ouie", "ouie"]
+  },
+  {
+    "question": "Qui a mis le premier le pied sur la Lune ?",
+    "answers": ["Neil Armstrong", "Armstrong"]
+  },
+  {
+    "question": "Quelle ville a construit le premier métro ?",
+    "answers": ["Londre"]
+  },
+  {
+    "question": "Dans quel pays parle-t-on l'afrikaans et l'anglais ?",
+    "answers": ["Afrique du Sud", "L'Afrique du Sud"]
+  },
+  {
+    "question": "En combien de temps la Terre tourne-t-elle autour du Soleil ?",
+    "answers": ["365 jours et un quart", "365 jours"]
+  },
+  {
+    "question": "Quel est le nom officiel du terrain de tennis ?",
+    "answers": ["Le court", "court"]
+  },
+  {
+    "question": "Complétez ce célèbre slogan (... Coca-cola)?",
+    "answers": ["Always"]
+  },
+  {
+    "question": "Quelle est la capitale des Bermudes ?",
+    "answers": ["Hamilton"]
+  },
+  {
+    "question": "Qui est le dieu du Soleil dans l'ancienne Egypte ?",
+    "answers": ["Râ", "Ra"]
+  },
+  {
+    "question": "Qui a fondé l'Académie Française ?",
+    "answers": ["Richelieu", "Le cardinal de Richelieu", "Le cardinal Richelieu"]
+  },
+  {
+    "question": "Que signifie (Bistro) en russe ?",
+    "answers": ["vite"]
+  },
+  {
+    "question": "A quel écrivain doit-on le personnage de Boule-de-Suif ?",
+    "answers": ["Guy de Maupassant", "Guy Maupassant", "Maupassant"]
+  },
+  {
+    "question": "Avec quel chanteur Carole Fredericks & Michael Jones ont-il formé un trio ?",
+    "answers": ["J.-J. Goldman", "Goldman"]
+  },
+  {
+    "question": "A quel pape a succédé Jean-Paul II ?",
+    "answers": ["Jean-Paul Ier", "Jean Paul Ier"]
+  },
+  {
+    "question": "Dans quelle ville se déroule chaque année le Festival interceltique ?",
+    "answers": ["Lorient", "lorient"]
+  },
+  {
+    "question": "De quel pays Tirana est-elle la capitale ?",
+    "answers": ["L'Albanie", "albanie", "Albanie"]
+  },
+  {
+    "question": "Quel est l'impératif du verbe peindre à la 2e personne du pluriel ?",
+    "answers": ["peignez", ""]
+  },
+  {
+    "question": "En géométrie, combien de côtés possède un losange ?",
+    "answers": ["4", "quatre"]
+  },
+  {
+    "question": "Dans quelle ville française se trouve la Cité de l'espace ?",
+    "answers": ["Toulouse", "toulouse"]
+  },
+  {
+    "question": "Si ce n'est pas un fruit, qu'est-ce qu'un kiwi ?",
+    "answers": ["Un oiseau", "Un oiseau"]
+  },
+  {
+    "question": "Quel nom porte le siège de la police londonienne ?",
+    "answers": ["Scotland Yard"]
+  },
+  {
+    "question": "Où le général de Gaulle prononce-t-il son fameux : 'Je vous ai compris' ?",
+    "answers": ["Alger", "Algerie", "en Algerie"]
+  },
+  {
+    "question": "De quelle couleur sont les jonquilles ? ",
+    "answers": ["Jaune", "Jaunes", "jaune"]
+  },
+  {
+    "question": "Quel club un golfeur utilise-t-il sur le green ?",
+    "answers": ["Un putter", "un putter", "putter"]
+  },
+  {
+    "question": "Qui a arrêté les Arabes à Poitiers en 732 ?",
+    "answers": ["Charles Martel"]
+  },
+  {
+    "question": "Jusqu'à combien Ricky Martin compte-t-il dans sa chanson 'Maria' ?",
+    "answers": ["3", "trois"]
+  },
+  {
+    "question": "Quel plan français permet d'organiser les secours en cas de catastrophe ?",
+    "answers": ["Orsec"]
+  },
+  {
+    "question": "Qu'est-ce que la 'Licorne' dont Tintin perce le secret ?",
+    "answers": ["Un bateau", "bateau"]
+  },
+  {
+    "question": "Sur quelle distance Marc Raquil a-t-il gagné un titre de champion d'Europe ?",
+    "answers": ["400m", "400 mètres"]
+  },
+  {
+    "question": "Pour quel journal travaille Gaston Lagaffe ?",
+    "answers": ["Spirou"]
+  },
+  {
+    "question": "Qui est 'Pouic Pouic' dans le film joué par Louis de Funès en 1963 ?",
+    "answers": ["un poulet", "poulet"]
+  },
+  {
+    "question": "Quel chevalier de la Table ronde est également appelé le Gallois ?",
+    "answers": ["Perceval"]
+  },
+  {
+    "question": "De quel pays Michelle Bachelet est- elle la Présidente depuis mars 2006 ?",
+    "answers": ["Le Chili", "Chili"]
+  },
+  {
+    "question": "De quel pays vient une voiture qui porte la lettre D ?",
+    "answers": ["Allemagne", "d'allemagne", ""]
+  },
+  {
+    "question": "Dans les bras de quel dieu grec se retrouve-t-on en s'endormant ?",
+    "answers": ["Morphée"]
+  },
+  {
+    "question": "De quelle couleur sont les Simpson dans le célèbre dessin animé ?",
+    "answers": ["Jaune"]
+  },
+  {
+    "question": "Avec la laine de quel animal fait-on des vêtements en cachemire ?",
+    "answers": ["La chèvre", "chèvre", "une chèvre"]
+  },
+  {
+    "question": "Quel est la race de Bill, le chien de Boule ? ",
+    "answers": ["Cocker", "un cocker"]
+  },
+  {
+    "question": "Au hockey sur glace, où doit aller un joueur ayant reçu une pénalité ?",
+    "answers": ["En prison", "prison"]
+  },
+  {
+    "question": "Quelle est la capitale de l'Argentine ?",
+    "answers": ["Buenos Aires"]
+  },
+  {
+    "question": "Quel nom d'origine italienne désigne une cantatrice célèbre ?",
+    "answers": ["une diva", "diva"]
+  },
+  {
+    "question": "A partir de quel taux d'alcool est-il interdit de prendre le volant ?",
+    "answers": ["0.5", "0,5 g/l"]
+  },
+  {
+    "question": "Quel objet signale le trou sur un green de golf ?",
+    "answers": ["Un drapeau", "drapeau"]
+  },
+  {
+    "question": "Selon la mythologie, qui est le père de Télémaque ? ",
+    "answers": ["ulysse", "Ulysse", ""]
+  },
+  {
+    "question": "Quel était le titre de noblesse de La Fayette ?",
+    "answers": ["marquis"]
+  },
+  {
+    "question": "Quel don possède Christophe Lambert dans le film Highlander ?",
+    "answers": ["Il est immortel", "immortel"]
+  },
+  {
+    "question": "Dans quel jeu télévisé faut-il éviter de tirer des boules noires ?",
+    "answers": ["Motus", "motus"]
+  },
+  {
+    "question": "Quelle est la monnaie officielle du Canada ?",
+    "answers": ["Le dollar canadien", "$ canadien", "cad"]
+  },
+  {
+    "question": "Dans Astérix et Obélix : Mission Cléopâtre, qui incarne Numérobis ?",
+    "answers": ["Jamel Debbouze", "debbouze"]
+  },
+  {
+    "question": "Dans la mythologie grecque, qui est la première femme ?",
+    "answers": ["pandore"]
+  },
+  {
+    "question": "De quel fruit la guigne est-elle une variété ?",
+    "answers": ["cerise", "la cerise"]
+  },
+  {
+    "question": "Quel chanteur français né à Casablanca rend hommage à T. Monod ?",
+    "answers": ["Alain Souchon", "Souchon"]
+  },
+  {
+    "question": "En quelle année Angela Merkel a-t-elle été nommée chancelière d'Allemagne ? ",
+    "answers": ["2005"]
+  },
+  {
+    "question": "Dans la série télévisée, contre quelles créatures se bat Buffy ?",
+    "answers": ["Les vampires", "vampire"]
+  },
+  {
+    "question": "Quelle chanteuse veut qu'on la laisse kiffer la vibe avec son mec ? ",
+    "answers": ["diams", "Diams"]
+  },
+  {
+    "question": "Quelle est la capitale de la Thaïlande ?",
+    "answers": ["Bangkok", "bangkok"]
+  },
+  {
+    "question": "Au tarot, que comporte une poignée ?",
+    "answers": ["Des atouts", "atout"]
+  },
+  {
+    "question": "Quelle religieuse a reçu le prix Nobel de la paix en 1979 ?",
+    "answers": ["Mère Teresa"]
+  },
+  {
+    "question": "Aux Etats-Unis, quel sport est concerné par le Super Bowl ?",
+    "answers": ["football américain", "football américain", "le football américain"]
+  },
+  {
+    "question": "Je suis un ...?",
+    "answers": ["bot", "Bot"]
+  },
+  {
+    "question": "5+10+15?=",
+    "answers": ["20", "vingt"]
+  },
+  {
+    "question": "10-10+92-4-88=?",
+    "answers": ["0", "zero", "zéro"]
+  },
+  {
+    "question": "1000000000000-1000000000000=?",
+    "answers": ["-1"]
+  },
+  {
+    "question": "6 x 7 =?",
+    "answers": ["42"]
+  },
+  {
+    "question": "1 x 3 =?",
+    "answers": ["3"]
+  },
+  {
+    "question": "4x2",
+    "answers": ["8"]
+  },
+  {
+    "question": "5 x 5 =?",
+    "answers": ["25"]
+  },
+  {
+    "question": "5 x 6 =?",
+    "answers": ["30"]
+  },
+  {
+    "question": "5 x 10 =?",
+    "answers": ["50"]
+  },
+  {
+    "question": "5 x 9 =?",
+    "answers": ["45"]
+  },
+  {
+    "question": "5 x 8 =?",
+    "answers": ["40"]
+  },
+  {
+    "question": "5 x  =?",
+    "answers": ["35"]
+  },{
+    "question": "5 x 6 =?",
+    "answers": ["30"]
+  },
+  {
+    "question": "1 x 1 =?",
+    "answers": ["1"]
+  },
+  {
+    "question": "1 x 2 =?",
+    "answers": ["2"]
+  },
+  {
+    "question": "1 x 3 =?",
+    "answers": ["3"]
+  },
+  {
+    "question": "1 x 4 =?",
+    "answers": ["4"]
+  },
+  {
+    "question": "1 x 5 =?",
+    "answers": ["5"]
+  },
+  {
+    "question": "1 x 6 =?",
+    "answers": ["6"]
+  },
+  {
+    "question": "1 x 7 =?",
+    "answers": ["7"]
+  },
+  {
+    "question": "1 x 8 =?",
+    "answers": ["8"]
+  },
+  {
+    "question": "1 x 8 =?",
+    "answers": ["8"]
+  },
+  {
+    "question": "1 x 9 =?",
+    "answers": ["9"]
+  },
+  {
+    "question": "1 x 10 =?",
+    "answers": ["10"]
+  },{
+    "question": "1 x 10000 =?",
+    "answers": ["10000"]
+  },
+  {
+    "question": "122 + 78 =?",
+    "answers": ["200"]
+  },
+  {
+    "question": "10 : 10 =?",
+    "answers": ["1"]
+  },{
+    "question": "6 x 6 =?",
+    "answers": ["36"]
+  },
+  {
+    "question": "5 + 25 =?",
+    "answers": ["30"]
+  },
+  {
+    "question": "50 + 521 =?",
+    "answers": ["571"]
+  },{
+    "question": "55 + 45 =?",
+    "answers": ["100"]
+  },
+  {
+    "question": "56 + 4 =?",
+    "answers": ["60"]
+  },
+  {
+    "question": "54 + 6 =?",
+    "answers": ["60"]
+  },{
+    "question": "54 + 66 =?",
+    "answers": ["120"]
+  },
+  {
+    "question": "0 + 0 =?",
+    "answers": ["0"]
+  },
+  {
+    "question": "0 x 0 =?",
+    "answers": ["0"]
+  },{
+    "question": "0 x 1259720781 + 1 =?",
+    "answers": ["1"]
+  },
+  {
+    "question": "0 x 1259720781 + 1 -2 =?",
+    "answers": ["-1", "-1"]
+  },
+  {
+    "question": "7 x 6 =?",
+    "answers": ["42"]
+  },{
+    "question": "4 x 4 =?",
+    "answers": ["16"]
+  },
+  {
+    "question": "5 x 6 =?",
+    "answers": [""]
+  },
+  {
+    "question": "8 x 7 =?",
+    "answers": ["56"]
+  },{
+    "question": "9 x 6 =?",
+    "answers": ["54"]
+  },
+  {
+    "question": "7 x 4 =?",
+    "answers": ["28"]
+  },
+  {
+    "question": "9 x 3 =?",
+    "answers": ["27"]
+  },{
+    "question": "9 x 4 =?",
+    "answers": ["36"]
+  },
+  {
+    "question": "10 x 10 =?",
+    "answers": ["100"]
+  },
+  {
+    "question": "7 + 1 x 2 =?",
+    "answers": ["9"]
+  },{
+    "question": "1 + 2 + 3 =?",
+    "answers": ["5"]
+  },
+  {
+    "question": "18 : 0 =?",
+    "answers": ["0"]
+  },
+  {
+    "question": "10 x 6 =?",
+    "answers": ["60"]
+  },
+  {
+    "question": "Maman a acheté 6 paquets de 6 galettes . Combien a-t-elle de galettes en tout?",
+    "answers": ["36"]
+  },
+  {
+    "question": "Le responsable du club a acheté 8 ballons de foot à 7 € pièce. Quelle est la dépense pour ces ballons d'entraînement?",
+    "answers": ["56"]
+  },
+  {
+    "question": "Marion et ses 5 camarades sont allés au cinéma voir 'Bienvenue chez les Ch'tis'. La place de cinéma coûte 9 € .Quel est le coût des entrées?",
+    "answers": ["54"]
+  },
+  {
+    "question": "Lucie a 9 ans. Son grand-père est 7 fois plus âgé qu'elle. Il a ... ans?",
+    "answers": ["63 ans","63"]
+  },
+  {
+    "question": "Dans quelle ville se trouve la gare de la Part-Dieu ?",
+    "answers": ["Lyon"]
+  },
+  {
+    "question": "Quelle pipe à long tuyau fumaient les Indiens d'Amérique du Nord ?",
+    "answers": ["Le calumet"]
+  },
+  {
+    "question": "Quelle femme, enlevée par Pâris, a été à l'origine de la guerre de Troie ?",
+    "answers": ["Hélène", "helene"]
+  },
+  {
+    "question": "Quel nom porte la plus petite partie d'une image numérique ?",
+    "answers": ["pixel", "le pixel","un pixel"]
+  },
+  {
+    "question": "De quel pays viennent les Magyars ?",
+    "answers": ["la hongrie", "Hongrie"]
+  },
+  {
+    "question": "Quel sport associe-t-on au Quinze de France ?",
+    "answers": ["Le rugby", "rugby"]
+  },
+  {
+    "question": "De quel fleuve la Marne est-elle un des principaux affluents ?",
+    "answers": [" la seine", "seine", "Seine"]
+  },
+  {
+    "question": "Quel est le grade le plus élevé dans la marine nationale ?",
+    "answers": ["Amiral"]
+  },
+  {
+    "question": "Quel est le grade le plus élevé dans l'armé ?",
+    "answers": ["général", "general"]
+  },
+  {
+    "question": "Dans quelle catégorie de saut excellait Javier Sotomayor ?",
+    "answers": ["hauteur"]
+  },
+  {
+    "question": "Aux échecs, quelle autre pièce que le roi faut-il bouger pour roquer ? ",
+    "answers": ["la tour", "tour"]
+  },
+  {
+    "question": "Combien y a-t-il de cloches dans le titre d'une chanson d'Edith Piaf ?",
+    "answers": ["3"]
+  },
+  {
+    "question": "De quel pays Hô Chi Minh proclame-t-il l'indépendance en 1945 ?",
+    "answers": ["Le Viêt Nam", "Viêt Nam"]
+  },
+  {
+    "question": "Quelle est la profession de Lino Ventura dans l'Emmerdeur ?",
+    "answers": ["tueur à gages", "tueur"]
+  },
+  {
+    "question": "Quel chanteur populaire interprète le Cinéma d'Audiard ?",
+    "answers": ["michel sardou", "sardou"]
+  },
+  {
+    "question": "Avec la Belgique et le Luxembourg, quel pays forme le Benelux ?",
+    "answers": ["Les Pays-Bas", "Pays-Bas"]
+  },
+  {
+    "question": "De quel groupe très prisé des ados Benoît Poher est-il le chanteur ?",
+    "answers": ["kyo"]
+  },
+  {
+    "question": "Quelle est la capitale de Bulgarie ? ",
+    "answers": ["sofia"]
+  },
+  {
+    "question": "A combien de jeux Olympiques Philippe Candeloro a-t-il gagné des médailles ?",
+    "answers": ["2"]
+  },
+  {
+    "question": "Combien y a-t-il de quintaux dans une tonne ?",
+    "answers": ["10"]
+  },
+  {
+    "question": "Par quelle épreuve débute un triathlon ?",
+    "answers": ["la natation", "natation"]
+  },
+  {
+    "question": "Qui est le mari de la femme du frère de ma tante ?",
+    "answers": ["Mon oncle", "tonton", "oncle"]
+  },
+  {
+    "question": "Combien font un plus la moitié d'un quart de 8 ?",
+    "answers": ["2"]
+  },
+  {
+    "question": "Quel pays est dirigé par Kim Jong-il ?",
+    "answers": ["La Corée du Nord", "Corée du Nord"]
+  },
+  {
+    "question": "Quel est le véritable prénom de M. Pokora ?",
+    "answers": ["Matthieu"]
+  },
+  {
+    "question": "Quels fruits ont fait la réputation de la ville de Cavaillon ?",
+    "answers": ["Les melons", "melons", "melon"]
+  },
+  {
+    "question": "Combien l'Ile-de-France compte-t-elle de départements ?",
+    "answers": ["8"]
+  },
+  {
+    "question": "Zidane était le ... de l'équipe de france",
+    "answers": ["capitaine"]
+  },{
+    "question": "A quel pays le Portugal a-t-il restitué Macao en 1999 ?",
+    "answers": ["la Chine", "chine"]
+  },{
+    "question": "Quel enchanteur est lié au roi Arthur et aux chevaliers de la Table ronde ?",
+    "answers": ["merlin"]
+  },{
+    "question": "Quel est le féminin du mot barman ? ",
+    "answers": ["Barmaid","barmaid"]
+  },{
+    "question": "Quel duo chante Façon Sex en 2006 ? ",
+    "answers": ["Tribal King", "tribal King"]
+  },{
+    "question": "Combien fait la racine carrée de 3 multipliée par elle-même ?",
+    "answers": ["3"]
+  },{
+    "question": "Dans quel pays se trouve Saint-Véran, la commune la plus haute d'Europe ?",
+    "answers": ["la france", "france"]
+  },{
+    "question": "Par qui est tuée La Chèvre de monsieur Seguin, d'Alphonse Daudet ?",
+    "answers": ["un loup", "loup", "le loup"]
+  },{
+    "question": "Lors de quel mois du calendrier islamique doit-on pratiquer le jeûne ?",
+    "answers": ["le ramadan", "ramandan"]
+  },{
+    "question": "Avec quel club français Luis Fernandez a-t-il remporté une Coupe d'Europe ?",
+    "answers": ["paris", "psg", "paris saint germain","paris saint-germain"]
+  },{
+    "question": "Combien de minutes s'écoulent entre 8 h et demie et 10 h moins le quart ?",
+    "answers": ["75"]
+  },{
+    "question": "Avec 4 poules, 2 coqs et 1 cochon, combien peut-on compter de pattes ?",
+    "answers": ["16"]
+  },{
+    "question": "Combien font 10 puissance 3 ?",
+    "answers": ["1000"]
+  },{
+    "question": "Quel superhéros vit à Gotham City ?",
+    "answers": ["batman"]
+  },{
+    "question": "Quel compositeur italien dédie une de ses Quatre Saisons à l'hiver ?",
+    "answers": ["vivaldi"]
+  }
+]
