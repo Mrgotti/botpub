@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
   
-  const modRole = message.guild.roles.find(role => role.name === "lolxd");
+  const modRole = message.guild.roles.find(role => role.name === "omg lol t ki");
 
     if (!modRole)
       return console.log("Le role Mods n'hésite pas!");
