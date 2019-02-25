@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
   
-  const modRole = message.guild.roles.find(role => role.name === "omg lol t ki");
+  const modRole = message.guild.roles.find(role => role.name === "Nitro add");
 
     if (!modRole)
   return message.reply("J'attend ma promotion!!!!");
