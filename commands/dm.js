@@ -7,7 +7,7 @@ module.exports.run = async (bot, message, args) => {
     if (!modRole)
       return console.log("Le role Mods n'hésite pas!");
       if (!message.member.roles.has(modRole.id))
-      return message.reply("Hey oh ?!!! Tu n'a pas les droits de faire cela!");
+      return message.reply("J'attend ma promotion!!!!");
   
   let arguments = args.join(" ");
   
